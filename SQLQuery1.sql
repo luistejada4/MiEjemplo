@@ -1,0 +1,1 @@
+﻿create table Estudiantes(EstudiantesID int primary key identity(1,1), Nombres varchar(30), Deudas float)
